@@ -47,7 +47,7 @@ function App() {
     <>
       <div>
         <div className="App">
-          <h1>PhoneBox Gadgets Store - Cirencester UK</h1>
+          <h1>Books Store - Cirencester UK</h1>
           <form className="book-form" onSubmit={handleAddBook}>
             <div className="form-group">
               <label htmlFor="title">Title</label>
